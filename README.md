@@ -13,7 +13,7 @@ Download termux and SocksDroid [here](https://trongtinh7727-my.sharepoint.com/:f
 
 **Open termux and run:**
 
-    pkg install git && git clone https://github.com/trongtinh7727/Psiphon.git && clear && cd Psiphon && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/Psiphon"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/Psiphon"' >> $HOME/.zshrc && source $HOME/.zshrc && clear && cd
+    pkg install git && git clone https://github.com/xuantho1/Psiphon.git && clear && cd Psiphon && chmod a+x tun && chmod a+x psiphon-tunnel-core && echo 'PATH="$PATH:$HOME/Psiphon"' >> $HOME/.bashrc && source $HOME/.bashrc && echo 'PATH="$PATH:$HOME/Psiphon"' >> $HOME/.zshrc && source $HOME/.zshrc && clear && cd
     
 ## Configuration & Usage:
 -----
